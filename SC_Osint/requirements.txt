@@ -1,0 +1,11 @@
+requests
+colorama
+python-whois
+dnspython
+phonenumbers
+beautifulsoup4
+urllib3
+configparser
+tabulate
+Pillow
+reportlab
